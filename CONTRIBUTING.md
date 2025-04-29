@@ -21,9 +21,7 @@ Where:
 
 ### Naming Conventions
 
-- Use lowercase names with hyphens for spaces
-- Include version number if applicable (e.g., `foaf-1.0.owl`)
-- Prefix with domain area if desired (e.g., `bio-gene-ontology.ttl`)
+- KEEP ORIGINAL NAME (so to help avoid duplicates)
 
 ## Contribution Process
 
