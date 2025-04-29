@@ -3,7 +3,7 @@ A curated list of ontologies for semantic interoperability, AI systems, knowledg
 
 
 ## How to contribute?   
-**All contributions must include updates to the main README.md file.** along with a dump of the ontology in the `assets/dump` folder. Your ontology should be added to the appropriate section (Upper-Level, Mid-Level, Domain Ontologies, etc.) following the existing format:
+**All contributions must include updates to the main README.md file.** along with a dump of the ontology in the `/dump` folder. Your ontology should be added to the appropriate section (Upper-Level, Mid-Level, Domain Ontologies, etc.) following the existing format:
 
 ```markdown
 - [Ontology Name](link-to-source) - Brief description of the ontology.
