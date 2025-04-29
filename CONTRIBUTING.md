@@ -18,18 +18,9 @@ Where:
 - `[ontology-name].[ext]` is the ontology file (.owl, .ttl, .rdf, etc.)
 - Use descriptive names to avoid conflicts
 
-Naming Conventions
-KEEP ORIGINAL NAME (so to help avoid duplicates)
+### Naming Conventions
 
-## Important: README Update Required
-
-**All contributions must include updates to the main README.md file.** Your ontology should be added to the appropriate section (Upper-Level, Mid-Level, Domain Ontologies, etc.) following the existing format:
-
-```markdown
-- [Ontology Name](link-to-source) - Brief description of the ontology.
-```
-
-Contributions that don't include README updates will not be accepted.
+- KEEP ORIGINAL NAME (so to help avoid duplicates)
 
 ## Contribution Process
 
