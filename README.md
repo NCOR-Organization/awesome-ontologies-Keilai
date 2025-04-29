@@ -32,6 +32,17 @@ More information on how to contibute [here](/CONTRIBUTING.md)
 ## 🧠 Mid-Level Ontologies
 
 - [Common Core Ontologies (CCO)](https://www.ccoweb.org/) - Modular ontologies for scientific and technical domains.
+  - [Agent Ontology](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/master/src/cco-modules/AgentOntology.ttl) - Represents agents, especially persons and organizations, and their roles.
+  - [Artifact Ontology](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/master/src/cco-modules/ArtifactOntology.ttl) - Represents artifacts, especially equipment, devices, and systems.
+  - [Currency Unit Ontology](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/master/src/cco-modules/CurrencyUnitOntology.ttl) - Represents currencies issued and used by countries.
+  - [Event Ontology](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/master/src/cco-modules/EventOntology.ttl) - Represents processual entities, especially those performed by agents across domains.
+  - [Extended Relation Ontology](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/master/src/cco-modules/ExtendedRelationOntology.ttl) - Represents relations between entities at the mid-level of Common Core Ontologies.
+  - [Facility Ontology](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/master/src/cco-modules/FacilityOntology.ttl) - Represents buildings and campuses designed to serve specific purposes across domains.
+  - [Geospatial Ontology](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/master/src/cco-modules/GeospatialOntology.ttl) - Represents sites, spatial regions, and other entities near the Earth's surface.
+  - [Information Entity Ontology](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/master/src/cco-modules/InformationEntityOntology.ttl) - Represents information entities, including data, documents, and digital content.
+  - [Quality Ontology](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/master/src/cco-modules/QualityOntology.ttl) - Represents qualities, attributes, and characteristics of entities across domains.
+  - [Time Ontology](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/master/src/cco-modules/TimeOntology.ttl) - Represents temporal concepts and time-related entities across domains.
+  - [Units of Measure Ontology](https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/master/src/cco-modules/UnitsOfMeasureOntology.ttl) - Represents units of measurement and their relationships across different measurement systems.
 - [Industrial Ontologies Foundry Core (IOF)](https://github.com/iofoundry/Core) - Core ontology for industrial manufacturing and services.
 - [Core Ontology for Biology and Biomedicine (COB)](https://github.com/OBOFoundry/COB/) - Small mid-level ontology of widely used terms in the OBO Foundry
 
