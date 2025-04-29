@@ -21,9 +21,8 @@ A curated list of ontologies for semantic interoperability, AI systems, knowledg
 ## 🧠 Mid-Level Ontologies
 
 - [Common Core Ontologies (CCO)](https://www.ccoweb.org/) - Modular ontologies for scientific and technical domains.
-- [Dublin Core](https://www.dublincore.org/) - Metadata terms for describing digital resources.
-- [FOAF (Friend of a Friend)](http://xmlns.com/foaf/spec/) - Vocabulary for describing people and social networks.
-- [PROV-O](https://www.w3.org/TR/prov-o/) - W3C recommendation for modeling provenance.
+- [Industrial Ontologies Foundry Core (IOF)](https://github.com/iofoundry/Core) - Core ontology for industrial manufacturing and services.
+- [Core Ontology for Biology and Biomedicine (COB)](https://github.com/OBOFoundry/COB/) - Small mid-level ontology of widely used terms in the OBO Foundry
 
 ## 🏥 Domain Ontologies
 
@@ -32,14 +31,15 @@ A curated list of ontologies for semantic interoperability, AI systems, knowledg
 - [XBRL Ontology](https://specifications.xbrl.org/work-product-index-ontology.html) - For financial reporting data in semantic web formats.
 - [ENVO (Environment Ontology)](https://www.ebi.ac.uk/ols/ontologies/envo) - For environmental features and habitats.
 - [RO (Relations Ontology)](http://obofoundry.org/ontology/ro.html) - Core relations used across biological ontologies.
-
-
-## 🔬 Specialized & Emerging Ontologies
-
 - [Time Ontology in OWL](https://www.w3.org/TR/owl-time/) - For temporal concepts.
 - [Cybersecurity Ontology](https://www.osti.gov/servlets/purl/1432219) - Describes threat intelligence and security operations.
 - [Agrovoc](http://aims.fao.org/standards/agrovoc) - Agricultural thesaurus and ontology by FAO.
-- 
+- [FOAF (Friend of a Friend)](http://xmlns.com/foaf/spec/) - Vocabulary for describing people and social networks.
+- [PROV-O](https://www.w3.org/TR/prov-o/) - W3C recommendation for modeling provenance.
+
+## 🔬 Annotation and Metadata Standards
+- [Dublin Core](https://www.dublincore.org/) - Metadata terms for describing digital resources.
+
 
 ## 🛠️ Tools and Libraries
 
