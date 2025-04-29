@@ -6,8 +6,7 @@ Thank you for your interest in contributing to the Awesome Ontologies collection
 
 ### File Structure
 
-All ontologies should be placed directly in the `assets/dump` folder:
-```
+All ontologies should be placed directly in the `assets/dump` folder:```
 assets/
 ├── dump/
 │   ├── [ontology-name].[ext]
@@ -19,11 +18,18 @@ Where:
 - `[ontology-name].[ext]` is the ontology file (.owl, .ttl, .rdf, etc.)
 - Use descriptive names to avoid conflicts
 
-### Naming Conventions
+Naming Conventions
+KEEP ORIGINAL NAME (so to help avoid duplicates)
 
-- Use lowercase names with hyphens for spaces
-- Include version number if applicable (e.g., `foaf-1.0.owl`)
-- Prefix with domain area if desired (e.g., `bio-gene-ontology.ttl`)
+## Important: README Update Required
+
+**All contributions must include updates to the main README.md file.** Your ontology should be added to the appropriate section (Upper-Level, Mid-Level, Domain Ontologies, etc.) following the existing format:
+
+```markdown
+- [Ontology Name](link-to-source) - Brief description of the ontology.
+```
+
+Contributions that don't include README updates will not be accepted.
 
 ## Contribution Process
 
@@ -36,13 +42,14 @@ Where:
    - Clicking "uploading an existing file" and selecting your file
 5. Add a commit message describing your addition
 6. Click "Commit new file"
-7. Click "Pull request" to create a PR
-8. Fill in the PR description with:
+7. **Edit the README.md file** to add your ontology to the appropriate section
+8. Click "Pull request" to create a PR
+9. Fill in the PR description with:
    - Ontology name and version
    - Brief description
    - Source URL
    - License information
-9. Submit the pull request
+10. Submit the pull request
 
 
 ### Code 
@@ -57,7 +64,8 @@ Where:
 When submitting a PR, please:
 
 1. Ensure your ontology file is properly formatted
-2. Include information about the ontology in your PR description:
+2. Verify that the README.md has been updated with your ontology
+3. Include information about the ontology in your PR description:
    - Name and version: 
    - Brief description: 
    - Source URL:

@@ -1,6 +1,15 @@
 # 📚 Awesome Ontologies
 A curated list of ontologies for semantic interoperability, AI systems, knowledge graphs, the semantic web, and digital twins.
 
+**All contributions must include updates to the main README.md file.** Your ontology should be added to the appropriate section (Upper-Level, Mid-Level, Domain Ontologies, etc.) following the existing format:
+
+```markdown
+- [Ontology Name](link-to-source) - Brief description of the ontology.
+```
+
+Contributions that don't include README updates will not be accepted.
+For more information on how to contribute go to 
+
 ## 💡 General Resources
 
 - [Linked Open Vocabularies (LOV)](https://lov.linkeddata.es/) - A popular registry of reusable vocabularies for describing data.
@@ -36,6 +45,11 @@ A curated list of ontologies for semantic interoperability, AI systems, knowledg
 - [Agrovoc](http://aims.fao.org/standards/agrovoc) - Agricultural thesaurus and ontology by FAO.
 - [FOAF (Friend of a Friend)](http://xmlns.com/foaf/spec/) - Vocabulary for describing people and social networks.
 - [PROV-O](https://www.w3.org/TR/prov-o/) - W3C recommendation for modeling provenance.
+
+
+## ⚙️ Application Ontologies
+-  ex.
+
 
 ## 🔬 Annotation and Metadata Standards
 - [Dublin Core](https://www.dublincore.org/) - Metadata terms for describing digital resources.
