@@ -1,14 +1,16 @@
 # 📚 Awesome Ontologies
 A curated list of ontologies for semantic interoperability, AI systems, knowledge graphs, the semantic web, and digital twins.
 
-**All contributions must include updates to the main README.md file.** Your ontology should be added to the appropriate section (Upper-Level, Mid-Level, Domain Ontologies, etc.) following the existing format:
+
+## How to contribute?   
+**All contributions must include updates to the main README.md file.** along with a dump of the ontology in the `assets/dump` folder. Your ontology should be added to the appropriate section (Upper-Level, Mid-Level, Domain Ontologies, etc.) following the existing format:
 
 ```markdown
 - [Ontology Name](link-to-source) - Brief description of the ontology.
 ```
 
 Contributions that don't include README updates will not be accepted.
-For more information on how to contribute go to 
+[More information](/CONTRIBUTING.md)
 
 ## 💡 General Resources
 
@@ -49,6 +51,7 @@ For more information on how to contribute go to
 
 ## ⚙️ Application Ontologies
 -  ex.
+-  
 
 
 ## 🔬 Annotation and Metadata Standards
