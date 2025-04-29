@@ -10,7 +10,7 @@ A curated list of ontologies for semantic interoperability, AI systems, knowledg
 ```
 
 Contributions that don't include README updates will not be accepted.
-[More information](/CONTRIBUTING.md)
+More information on how to contibute [here](/CONTRIBUTING.md)
 
 ## 💡 General Resources
 
