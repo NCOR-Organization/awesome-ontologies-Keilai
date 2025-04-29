@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.co-ode.org/ontologies/pizza/pizza.owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl">
+        <rdfs:comment>Sample Pizza Ontology for the Awesome Ontologies repository</rdfs:comment>
+        <owl:versionInfo>1.0.0</owl:versionInfo>
+    </owl:Ontology>
+    
+    <!-- Pizza Class -->
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#Pizza">
+        <rdfs:label>Pizza</rdfs:label>
+        <rdfs:comment>A flattened bread dough base topped with sauce, cheese, and other ingredients</rdfs:comment>
+    </owl:Class>
+    
+    <!-- PizzaTopping Class -->
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaTopping">
+        <rdfs:label>Pizza Topping</rdfs:label>
+        <rdfs:comment>Ingredient placed on top of a pizza</rdfs:comment>
+    </owl:Class>
+    
+    <!-- PizzaBase Class -->
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaBase">
+        <rdfs:label>Pizza Base</rdfs:label>
+        <rdfs:comment>The base of a pizza</rdfs:comment>
+    </owl:Class>
+</rdf:RDF> 

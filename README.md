@@ -4,7 +4,7 @@ A curated list of ontologies for semantic interoperability, AI systems, knowledg
 ## 💡 General Resources
 
 - [Linked Open Vocabularies (LOV)](https://lov.linkeddata.es/) - A popular registry of reusable vocabularies for describing data.
-- [BioPortal](https://bioportal.bioontology.org/) - The world’s most comprehensive repository of biomedical ontologies.
+- [BioPortal](https://bioportal.bioontology.org/) - The world's most comprehensive repository of biomedical ontologies.
 - [OntoHub](https://ontohub.org/) - A collaborative platform for managing distributed ontologies.
 - [Open Biological and Biomedical Ontologies (OBO)](https://obofoundry.org/) - Coordinated set of ontologies for the life sciences.
 - [W3C Ontology Standards](https://www.w3.org/standards/semanticweb/ontology) - Official web ontology standards including OWL and SKOS.
@@ -50,4 +50,6 @@ A curated list of ontologies for semantic interoperability, AI systems, knowledg
 
 ## 🤝 Contributing
 
-Found a new ontology? Let's catch them all. Want to improve the descriptions? Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md).
+Found a new ontology? Let's catch them all. Want to improve the descriptions? Contributions are welcome! 
+
+Simply add ontology files to the `assets/dump` folder and submit a PR. Please read the [contributing guidelines](CONTRIBUTING.md) for details.
