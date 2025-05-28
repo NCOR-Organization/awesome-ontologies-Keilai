@@ -4,6 +4,12 @@ A curated list of ontologies for semantic interoperability, AI systems, knowledg
 ## 🏆 Contributor Scoreboard
 
 <!-- START_SCOREBOARD -->
+
+
+| Contributor | Files in `/dump` |
+|-------------|------------------|
+| John Beverley | 49 |
+
 <!-- END_SCOREBOARD -->
 
 
