@@ -14,12 +14,6 @@ This list is populated by volunteers. A scoreboard is provided below displaying 
 
 <!-- END_SCOREBOARD -->
 
-## Ontology Dashboard  
-
-This list is used to generate a dashboard designed to display basic information about all known ontologies in the world. 
-
-📊 [View Ontology Dashboard](dashboard.html)
-
 ## How to contribute?   
 **All contributions must include updates to the main README.md file.** along with a dump of the ontology in the `/dump` folder. Your ontology should be added to the appropriate section (Upper-Level, Mid-Level, Domain Ontologies, etc.) following the existing format:
 
