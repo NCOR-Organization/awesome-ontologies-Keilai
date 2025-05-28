@@ -8,9 +8,9 @@ This list is populated by volunteers. A scoreboard is provided below displaying 
 <!-- START_SCOREBOARD -->
 
 
-| Contributor | Files in `/dump` |
-|-------------|------------------|
-| John Beverley | 49 |
+| 🏅 Rank | Contributor | Score |
+|--------|-------------|------------------|
+| 🥇 | `@John Beverley` | 50 |
 
 <!-- END_SCOREBOARD -->
 
