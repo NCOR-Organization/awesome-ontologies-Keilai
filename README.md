@@ -14,7 +14,6 @@ A curated list of ontologies for semantic interoperability, AI systems, knowledg
 - [Ontology Name](link-to-source) - Brief description of the ontology.
 ```
 
-Contributions that don't include README updates will not be accepted.
 More information on how to contibute [here](/CONTRIBUTING.md)
 
 ## 💡 General Resources
@@ -64,15 +63,8 @@ More information on how to contibute [here](/CONTRIBUTING.md)
 - [FOAF (Friend of a Friend)](http://xmlns.com/foaf/spec/) - Vocabulary for describing people and social networks.
 - [PROV-O](https://www.w3.org/TR/prov-o/) - W3C recommendation for modeling provenance.
 
-
-## ⚙️ Application Ontologies
--  ex.
--  
-
-
 ## 🔬 Annotation and Metadata Standards
 - [Dublin Core](https://www.dublincore.org/) - Metadata terms for describing digital resources.
-
 
 ## 🛠️ Tools and Libraries
 
@@ -85,4 +77,4 @@ More information on how to contibute [here](/CONTRIBUTING.md)
 
 Found a new ontology? Let's catch them all. Want to improve the descriptions? Contributions are welcome! 
 
-Simply add ontology files to the `assets/dump` folder and submit a PR. Please read the [contributing guidelines](CONTRIBUTING.md) for details.
+Simply add ontology files to the `dump` folder and submit a PR. Please read the [contributing guidelines](CONTRIBUTING.md) for details.

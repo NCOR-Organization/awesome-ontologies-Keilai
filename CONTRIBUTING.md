@@ -1,22 +1,18 @@
 # Contributing 
 
-Thank you for your interest in contributing to the Awesome Ontologies collection. This document outlines the process for submitting ontologies to the dump folder and improving the repository.
+This document outlines the process for submitting ontologies to the dump folder and improving the repository.
 
 ## Adding Ontologies to the Dump Folder
 
 ### File Structure
 
-All ontologies should be placed directly in the `assets/dump` folder:```
-assets/
-├── dump/
-│   ├── [ontology-name].[ext]
-│   ├── [another-ontology].[ext]
-│   └── ...
+All ontologies should be placed directly in the `dump` folder:```
+dump/
+├── [ontology-name].[ext]
+├── [another-ontology].[ext]
+└── ...
 ```
-
-Where:
-- `[ontology-name].[ext]` is the ontology file (.owl, .ttl, .rdf, etc.)
-- Use descriptive names to avoid conflicts
+Where `[ontology-name].[ext]` is the ontology file (.owl, .ttl, .rdf, etc.)
 
 ### Naming Conventions
 
@@ -25,9 +21,9 @@ Where:
 ## Contribution Process
 
 ### Manual
-1. Navigate to the repository on GitHub on `assets/dump`
+1. Navigate to the repository on GitHub on `dump`
 2. Click the "Add file" button and select "Create new file"
-3. In the file name field, enter the path: `assets/dump/[your-ontology-name].[ext]`
+3. In the file name field, enter the path: `/dump/[your-ontology-name].[ext]`
 4. Upload your ontology file by either:
    - Dragging and dropping the file into the editor
    - Clicking "uploading an existing file" and selecting your file
@@ -42,7 +38,6 @@ Where:
    - License information
 10. Submit the pull request
 
-
 ### Code 
 1. **Fork** the repository
 2. **Create a branch** for your addition (`git checkout -b add-ontology-name`)
@@ -54,22 +49,12 @@ Where:
 
 When submitting a PR, please:
 
-1. Ensure your ontology file is properly formatted
-2. Verify that the README.md has been updated with your ontology
-3. Include information about the ontology in your PR description:
+1. Verify that the README.md has been updated with your ontology
+2. Include information about the ontology in your PR description:
    - Name and version: 
    - Brief description: 
    - Source URL:
    - License information:
-
-## Review Criteria
-
-Submissions will further evaluated based on:
-
-- **Quality**: Is the ontology well-designed and maintained?
-- **Relevance**: Does it fit the scope of this collection?
-- **License**: Is it available under an open license?
-- **Accessibility**: Can others easily use it?
 
 ## Code of Conduct
 
