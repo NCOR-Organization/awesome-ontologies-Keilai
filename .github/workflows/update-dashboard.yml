@@ -1,0 +1,34 @@
+name: Update Ontology Dashboard
+
+on:
+  push:
+    paths:
+      - 'dump/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-dashboard:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate dashboard
+        run: python generate_dashboard.py
+
+      - name: Commit updated dashboard
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add dashboard.html
+          git commit -m "🔄 Update ontology dashboard [skip ci]" || echo "No changes"
+          git push
