@@ -1,6 +1,8 @@
 # 📚 Awesome Ontologies
 A curated list of ontologies for semantic interoperability, AI systems, knowledge graphs, the semantic web, and digital twins.
 
+This list is populated by volunteers. A scoreboard is provided below displaying user contributions to the list, where 1 ontology = 1 point. 
+
 ## 🏆 Contributor Scoreboard
 
 <!-- START_SCOREBOARD -->
