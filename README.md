@@ -71,7 +71,9 @@ More information on how to contibute [here](/CONTRIBUTING.md)
 - [Agrovoc](http://aims.fao.org/standards/agrovoc) - Agricultural thesaurus and ontology by FAO.
 - [FOAF (Friend of a Friend)](http://xmlns.com/foaf/spec/) - Vocabulary for describing people and social networks.
 - [PROV-O](https://www.w3.org/TR/prov-o/) - W3C recommendation for modeling provenance.
+- [APOLLO-SV](https://obofoundry.org/ontology/apollo_sv.html) - An OWL2 ontology of phenomena in infectious disease epidemiology and population biology for use in epidemic simulation.
 - [D3FEND](https://d3fend.mitre.org/resources/ontology/) - Domain ontology modeling key concepts and relations in the cybersecurity countermeasure domain.
+
 
 ## 🔬 Annotation and Metadata Standards
 - [Dublin Core](https://www.dublincore.org/) - Metadata terms for describing digital resources.
