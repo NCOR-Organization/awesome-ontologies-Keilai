@@ -10,7 +10,7 @@ This list is populated by volunteers. A scoreboard is provided below displaying 
 
 | 🏅 Rank | Contributor | Score |
 |--------|-------------|------------------|
-| 🥇 | `@Jeremy Ravenel` | 52 |
+| 🥇 | `@Jeremy Ravenel` | 54 |
 
 <!-- END_SCOREBOARD -->
 
@@ -32,12 +32,14 @@ More information on how to contibute [here](/CONTRIBUTING.md)
 - [W3C Ontology Standards](https://www.w3.org/standards/semanticweb/ontology) - Official web ontology standards including OWL and SKOS.
 
 
+
 ## 🏛️ Upper-Level Ontologies
 
 - [Basic Formal Ontology (BFO)](https://basic-formal-ontology.org/) - ISO-standard top-level ontology used in scientific and defense applications.
 - [DOLCE](https://www.loa.istc.cnr.it/dolce/) - Descriptive Ontology for Linguistic and Cognitive Engineering.
 - [SUMO](https://www.adampease.org/OP/) - Suggested Upper Merged Ontology, supports natural language processing and reasoning.
 - [GFO (General Formal Ontology)](https://www.onto-med.de/en/theory/gfo/) - Integrates objects, processes, and time.
+- [GIST Core](https://github.com/semanticarts/gist/tree/main/ontologies) - gist is a minimalist upper ontology created by Semantic Arts
 
 
 ## 🧠 Mid-Level Ontologies
@@ -70,6 +72,8 @@ More information on how to contibute [here](/CONTRIBUTING.md)
 - [FOAF (Friend of a Friend)](http://xmlns.com/foaf/spec/) - Vocabulary for describing people and social networks.
 - [PROV-O](https://www.w3.org/TR/prov-o/) - W3C recommendation for modeling provenance.
 - [APOLLO-SV](https://obofoundry.org/ontology/apollo_sv.html) - An OWL2 ontology of phenomena in infectious disease epidemiology and population biology for use in epidemic simulation.
+- [D3FEND](https://d3fend.mitre.org/resources/ontology/) - Domain ontology modeling key concepts and relations in the cybersecurity countermeasure domain.
+
 
 ## 🔬 Annotation and Metadata Standards
 - [Dublin Core](https://www.dublincore.org/) - Metadata terms for describing digital resources.
