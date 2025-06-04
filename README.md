@@ -32,12 +32,14 @@ More information on how to contibute [here](/CONTRIBUTING.md)
 - [W3C Ontology Standards](https://www.w3.org/standards/semanticweb/ontology) - Official web ontology standards including OWL and SKOS.
 
 
+
 ## 🏛️ Upper-Level Ontologies
 
 - [Basic Formal Ontology (BFO)](https://basic-formal-ontology.org/) - ISO-standard top-level ontology used in scientific and defense applications.
 - [DOLCE](https://www.loa.istc.cnr.it/dolce/) - Descriptive Ontology for Linguistic and Cognitive Engineering.
 - [SUMO](https://www.adampease.org/OP/) - Suggested Upper Merged Ontology, supports natural language processing and reasoning.
 - [GFO (General Formal Ontology)](https://www.onto-med.de/en/theory/gfo/) - Integrates objects, processes, and time.
+- [GIST Core](https://github.com/semanticarts/gist/tree/main/ontologies) - gist is a minimalist upper ontology created by Semantic Arts
 
 
 ## 🧠 Mid-Level Ontologies
