@@ -71,9 +71,10 @@ More information on how to contibute [here](/CONTRIBUTING.md)
 - [Agrovoc](http://aims.fao.org/standards/agrovoc) - Agricultural thesaurus and ontology by FAO.
 - [FOAF (Friend of a Friend)](http://xmlns.com/foaf/spec/) - Vocabulary for describing people and social networks.
 - [PROV-O](https://www.w3.org/TR/prov-o/) - W3C recommendation for modeling provenance.
-- [APOLLO-SV](https://obofoundry.org/ontology/apollo_sv.html) - An OWL2 ontology of phenomena in infectious disease epidemiology and population biology for use in epidemic simulation.
+- [APOLLO-SV (Apollo Structured Vocabulary)](https://obofoundry.org/ontology/apollo_sv.html) - An OWL2 ontology of phenomena in infectious disease epidemiology and population biology for use in epidemic simulation.
 - [D3FEND](https://d3fend.mitre.org/resources/ontology/) - Domain ontology modeling key concepts and relations in the cybersecurity countermeasure domain.
-- [DISDRIV](https://obofoundry.org/ontology/disdriv.html) - Ontology for drivers and triggers of human diseases, built to classify ExO ontology exposure stressors.
+- [DISDRIV (Disease Drivers Ontology)](https://obofoundry.org/ontology/disdriv.html) - Ontology for drivers and triggers of human diseases, built to classify ExO ontology exposure stressors.
+- [DOID (Human Disease Ontology)](https://obofoundry.org/ontology/doid.html) - An ontology for describing the classification of human diseases organized by etiology.
 
 
 ## 🔬 Annotation and Metadata Standards
