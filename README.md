@@ -73,6 +73,7 @@ More information on how to contibute [here](/CONTRIBUTING.md)
 - [PROV-O](https://www.w3.org/TR/prov-o/) - W3C recommendation for modeling provenance.
 - [APOLLO-SV](https://obofoundry.org/ontology/apollo_sv.html) - An OWL2 ontology of phenomena in infectious disease epidemiology and population biology for use in epidemic simulation.
 - [D3FEND](https://d3fend.mitre.org/resources/ontology/) - Domain ontology modeling key concepts and relations in the cybersecurity countermeasure domain.
+- [DISDRIV](https://obofoundry.org/ontology/disdriv.html) - Ontology for drivers and triggers of human diseases, built to classify ExO ontology exposure stressors.
 
 
 ## 🔬 Annotation and Metadata Standards
