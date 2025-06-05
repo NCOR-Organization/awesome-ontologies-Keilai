@@ -76,6 +76,7 @@ More information on how to contibute [here](/CONTRIBUTING.md)
 - [DISDRIV (Disease Drivers Ontology)](https://obofoundry.org/ontology/disdriv.html) - Ontology for drivers and triggers of human diseases, built to classify ExO ontology exposure stressors.
 - [DOID (Human Disease Ontology)](https://obofoundry.org/ontology/doid.html) - An ontology for describing the classification of human diseases organized by etiology.
 - [MAxO (Medical Action Ontology)](https://obofoundry.org/ontology/maxo.html) - The Medical Action Ontology (MAxO) provides a broad view of medical actions and includes terms for medical procedures, interventions, therapies, treatments, and recommendations.
+- [INO (Interaction Network Ontology)](https://obofoundry.org/ontology/ino.html) - An ontology in the domain of interactions and interaction networks. Represents general and species-neutral types of interactions and interaction networks, and their related elements and relations.
 
 
 ## 🔬 Annotation and Metadata Standards
